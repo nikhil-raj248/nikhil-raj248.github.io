@@ -56194,7 +56194,7 @@ case 1:return A.U(p,r)}})
 return A.W($async$pL,r)}}
 A.RD.prototype={}
 A.zN.prototype={
-V(a){return new A.qe(B.Df,"Flutter Demo",A.a6W(null,A.ac6(B.W,B.D1),!0),!1,null)}}
+V(a){return new A.qe(B.Df,"LendingKing",A.a6W(null,A.ac6(B.W,B.D1),!0),!1,null)}}
 A.qn.prototype={
 aq(){return new A.FP(B.p)}}
 A.FP.prototype={
